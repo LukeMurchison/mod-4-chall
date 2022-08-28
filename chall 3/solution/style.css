@@ -116,13 +116,15 @@ p {
 input[type=text], textarea {
     background: auto;
     border-bottom: auto;
+    background: #9D9D9D;
 }
 
 input[type=text]:focus, textarea:focus {
     border-bottom: auto;
+    color: white;
 }
 
 input[type=submit] {
-    background: auto;
+    background: #FF01FF;
 }
 
